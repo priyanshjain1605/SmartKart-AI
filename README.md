@@ -672,7 +672,7 @@ Keep credentials, private customer data, local databases, virtual environments, 
 
 ## License
 
-No license is specified here. Add a `LICENSE` file and update this section once the project license has been decided.
+No license is specified here.
 
 ---
 
