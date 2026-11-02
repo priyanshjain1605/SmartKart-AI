@@ -1,4 +1,4 @@
-# SmartKart AI
+# SmartKart AI : Manage Your Store with AI
 
 **AI-Powered Retail Inventory, Billing & Business Insights Platform**
 
